@@ -18,9 +18,10 @@ cleaned_election_data |>
 # Create graph
 
 cleaned_election_data |>
-  ggplot(aes(x = elected_party)) +
+  ggplot(aes(x = elected_party, fill = elected_party)) +
   geom_bar() +
   theme_minimal() + # Make the theme neater
-  labs(x = "Party", y = "Number of seats") # Make labels more meaningful
-
+  labs(title = "Number of Seats Won by Party in the 2021 Canadian Federal Election",
+       x = "Party Name",
+       y = "Number of Seats") # Make labels more meaningful
 
