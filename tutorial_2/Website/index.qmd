@@ -1,11 +1,5 @@
 ---
-title: "Website"
+title: "Welcome to my Website!"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi, my name is Maria Mangru. I am in my final year of study at the University of Toronto.
