@@ -2,4 +2,10 @@
 title: "Welcome to my Website!"
 ---
 
-Hi, my name is Maria Mangru. I am in my final year of study at the University of Toronto.
+Hello! I am a final year student at the University of Toronto pursuing my Bachelor of Science in Statistics and Economics with a Focus in Data Analytics.
+
+I am interested in finding answers to questions I have. You can read more about the papers I've written here.
+
+## Contact
+
+Email: [maria.mangru\@mail.utoronto.ca](mailto:maria.mangru@mail.utoronto.ca) LinkedIn: [mariamangru](https://www.linkedin.com/in/mariamangru/)

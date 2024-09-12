@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my Website!",
+    "section": "",
+    "text": "Hi, my name is Maria Mangru. I am in my final year of study at the University of Toronto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I am a student at the University of Toronto pursuing my Bachelor of Science in Statistics and Economics with a Focus in Data Analytics.\nMy academic endeavours are complemented by practical experience in business analytics and strategy consulting, allowing me to apply theoretical insights to tangible business challenges across various industries."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nEmail: maria.mangru@mail.utoronto.ca LinkedIn: mariamangru"
+  }
+]
